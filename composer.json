@@ -1,0 +1,12 @@
+{
+    "name": "teutons/composer",
+    "description": "\"This is library\"",
+    "type": "library",
+    "authors": [
+        {
+            "name": "SonMT",
+            "email": "maithaison1998@gmail.com"
+        }
+    ],
+    "require": {}
+}
